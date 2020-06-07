@@ -4,3 +4,9 @@
 This script calculators the average PHP memory used per PHP-FPM process currently running.
 Run this on a cronjob and log the output to get an idea over time.
 Useful for optimizing PHP-FPM max children based on available memory.
+
+## script 2
+this does something
+
+## script 3
+this also does something
